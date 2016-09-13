@@ -1,6 +1,6 @@
 FROM zhiqzhao/ubuntu_weblogic1036_domain
 
-ENV INSPECTIT_VERSION 1.7.2.85
+ENV INSPECTIT_VERSION 1.7.3.86
 ENV INSPECTIT_AGENT_HOME /opt/agent
 
 # prepare the needed libs
